@@ -8,4 +8,4 @@ Chapar is a native API testing tool built with GoLang, designed to simplify and 
 <a href="https://gophers.slack.com/messages/chapar"><strong>Slack</strong></a>
 
 ## State of the project
-Chapar is currently in the early beta phase and under active development, with regular updates and improvements planned to enhance the user experience and functionality.
+Chapar is under active development, with regular updates and improvements planned to enhance the user experience and functionality.
